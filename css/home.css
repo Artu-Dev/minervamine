@@ -29,3 +29,12 @@ nav ul{
   display: flex;
   gap: 1rem;
 }
+
+nav ul li {
+  transition: ease .3s;
+  cursor: pointer;
+}
+
+nav ul li:hover {
+  color: #F73D93;
+}
