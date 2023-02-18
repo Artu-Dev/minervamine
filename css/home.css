@@ -1,0 +1,21 @@
+main {
+  height: 100vh;
+  padding: 6rem 3rem 0 3rem;
+  display: flex;
+  gap: 1rem;
+}
+
+main .main-primary{
+  background: #343A40;
+  max-width: 80vw;
+  margin-bottom: 3rem;
+}
+
+main .main-primary p {
+  background: rgba(0, 128, 0, 0.479);
+}
+
+main .main-aside {
+  max-width: 20vw;
+  background: red;
+}
