@@ -1,3 +1,14 @@
+:root {
+  --roxo1: #635985;
+  --roxo2: #443C68;
+  --roxo3: #393053;
+  --roxo4: #18122B;
+  --branco: #E1E8EB;
+  --cinza: #343A40;
+  --cinza2:#6e767e;
+  --cardBorder: .6rem;
+}
+
 main {
   height: 100vh;
   padding: 6rem 3rem 0 3rem;
@@ -12,10 +23,63 @@ main .main-primary{
 }
 
 main .main-primary p {
-  background: rgba(0, 128, 0, 0.479);
 }
 
 main .main-aside {
   max-width: 20vw;
   background: red;
+}
+
+#news-container {
+  display: flex;
+  flex-direction: column;
+  padding: 1rem;
+  gap: 1rem;
+}
+
+.newsCard {
+  background: var(--branco);
+  height: 15rem;
+  display: flex;
+  justify-content: space-evenly;
+  max-width: 800px;
+  margin: auto;
+  position: relative;
+  border-radius: var(--cardBorder);
+}
+
+.newsCard-img {
+}
+
+.newsCard-img img{
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  border-radius: var(--cardBorder) 0 0 var(--cardBorder)  ;
+}
+
+.newsCard-text {
+  width: 70%;
+  padding: 1rem;
+}
+
+.newsTitle {
+  color: #18122B;
+  font-size: 1.5;
+}
+
+.newsDesc {
+  padding-top: .6rem;
+  text-align: justify;
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+  color: var(--cinza);
+}
+
+.newsCard-date {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: .5rem;
+  color: var(--cinza2);
 }

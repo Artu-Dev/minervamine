@@ -7,13 +7,18 @@ const printNews = async() => {
   news.map((noticia) => {
     newsContainer.innerHTML += `
       <div class="newsCard">
-        <div class="newsCard-img"></div>
-        <div class="newsTitle">
-          <h1>${noticia.titulo}</h1>
+        <div class="newsCard-img">
+          <img src="http://lorempixel.com.br/300/300/?${noticia.id}">
         </div>
-        <div class="newsDesc">
-          <p>${noticia.desc}</p>
+        <div class="newsCard-text">
+          <div class="newsTitle">
+            <h1>${noticia.titulo}</h1>
+          </div>
+          <div class="newsDesc">
+            <p>${noticia.desc}</p>
+          </div>
         </div>
+        <div class="newsCard-date">${noticia.data}</div>
       </div>
     `;
   })
