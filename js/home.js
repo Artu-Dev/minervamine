@@ -9,6 +9,7 @@ const printNews = async() => {
       <div class="newsCard">
         <div class="newsCard-img">
           <img src="http://lorempixel.com.br/300/300/?${noticia.id}">
+          <div class="newsCard-type ${noticia.type}">${noticia.type}</div>
         </div>
         <div class="newsCard-text">
           <div class="newsTitle">
