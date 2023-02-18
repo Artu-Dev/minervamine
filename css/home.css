@@ -1,21 +1,140 @@
+:root {
+  --roxo1: #635985;
+  --roxo2: #443C68;
+  --roxo3: #393053;
+  --roxo4: #18122B;
+  --roxo5: #7952B3;
+  --branco: #E1E8EB;
+  --cinza: #343A40;
+  --cinza2:#6e767e;
+  --cardBorder: .4rem;
+
+--azul3: #005073;
+--azul4: #0077B6;
+
+--amarelo1: #FFC300;
+--amarelo2: #F8D347;
+--amarelo3: #F2C94C;
+--laranja1: #FF5733;
+
+--verde3: #2C5F2D;
+}
+
 main {
-  height: 100vh;
+  height: 100%;
   padding: 6rem 3rem 0 3rem;
   display: flex;
   gap: 1rem;
 }
 
 main .main-primary{
-  background: #343A40;
   width: 80vw;
-  margin-bottom: 3rem;
+  background: var(--roxo2);
+  border-radius: var(--cardBorder);
 }
 
 main .main-primary p {
-  background: rgba(0, 128, 0, 0.479);
 }
 
 main .main-aside {
   max-width: 20vw;
-  background: red;
+}
+
+#news-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+  padding: 1rem;
+  gap: 2rem;
+}
+
+.newsCard {
+  background: var(--roxo4);
+  height: 30rem;
+  max-width: 500px;
+  width: 100%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  border-radius: var(--cardBorder);
+  position: relative;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.newsCard-img {
+  width: 100%;
+  height: 45%;
+  position: relative;
+}
+
+.newsCard-type {
+  background: var(--roxo5);
+  color: #18122B;
+  text-transform: uppercase;
+  font-size: 1.3rem;
+  font-weight: 700;
+  border-radius: .3rem;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  padding: .7rem 2.5rem;
+  transform: translate(-50% , 50% );
+  box-shadow: 6px 4px 8px rgba(0, 0, 0, 0.26);
+}
+
+.noticia {
+  background: var(--azul4);
+  color: var(--branco);
+}
+
+.artigo {
+  background: var(--verde3);
+  color: var(--branco);
+}
+
+.aviso {
+  background: var(--laranja1);
+  color: var(--branco);
+}
+
+.newsCard-img img{
+  object-fit: cover;
+  width: 100%;
+  height: 100%;
+  border-radius: var(--cardBorder) var(--cardBorder) 0 0 ;
+}
+
+.newsCard-text {
+  height: 100%;
+  padding: 1rem;
+  margin-top: .5rem;
+}
+
+.newsTitle {
+  color: var(--roxo5);
+  text-align: center;
+  height: 25%;
+}
+
+.newsDesc {
+  height: 65%;
+  padding-top: .6rem;
+  text-align: justify;
+  line-height: 1.5rem;
+  font-size: 1.1rem;
+  color: #7e7e7e;
+  overflow: auto;
+}
+
+.newsCard-date {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding: .5rem;
+  color: var(--branco);
+}
+
+.newsCard-img,
+.newsTitle {
+  cursor: pointer;
 }

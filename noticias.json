@@ -1,19 +1,33 @@
 [
   {
-    "titulo": "Eventos De Carnaval Começam!",
-    "desc": "Os eventos de carnaval no servidor começaram com tudo! com 5+ minigames adicionados e promoções de carnaval na loja",
+    "id": 0,
+    "titulo": "Melhores jogadores Sky wars!",
+    "desc": "adbaubfasbvaduvbasivbsj svbaihnvadbvoa diabnaoibcaoibc",
+    "type": "artigo",
     "img": "img/imagem.png",
     "data": "19/05/2022"
   },
   {
-    "titulo": "Titulo exemplo 2",
+    "id": 1,
+    "titulo": "Eventos De Carnaval Começam!",
+    "desc": "Os eventos de carnaval no servidor começaram com tudo! com 5+ minigames adicionados e promoções de carnaval na loja",
+    "type": "noticia",
+    "img": "img/imagem.png",
+    "data": "19/05/2022"
+  },
+  {
+    "id": 2,
+    "titulo": "Servidor entrara em manutenção",
     "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe amet est dolorum beatae veniam! Quae, necessitatibus quisquam? Rerum deserunt magni officia consequatur! Facere, nihil asperiores. Voluptatem rem totam culpa suscipit!",
+    "type": "aviso",
     "img": "img/imagem2.png",
     "data": "19/05/2022"
   },
   {
+    "id": 3,
     "titulo": "eu odeio carnaval sou emo",
     "desc": " sou antisocial",
+    "type": "artigo",
     "img": "img/imagem2.png",
     "data": "19/05/2022"
   }
