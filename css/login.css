@@ -12,9 +12,22 @@
         color: var(--branco);
 */
 
+
+main{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    
+}
+
+
 body{
     text-align: center;
-    display: flex;
+    height: 100vh;
+   
     
     
 }
@@ -24,6 +37,7 @@ body{
 .telalogin{
     border: 10px solid darkorchid;
     padding: 40px;
+    background: #E1E8EB;
     
 }
 
@@ -44,4 +58,11 @@ body{
     font-size: 2rem;
     font-family: Arial, Helvetica, sans-serif;
     
+}
+
+
+.login-container h1{
+    color: rgb(104, 28, 28);
+    font-size: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
