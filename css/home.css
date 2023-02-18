@@ -29,7 +29,8 @@ main {
 
 main .main-primary{
   width: 80vw;
-  background: #343A40;
+  background: var(--roxo2);
+  border-radius: var(--cardBorder);
 }
 
 main .main-primary p {
@@ -37,12 +38,11 @@ main .main-primary p {
 
 main .main-aside {
   max-width: 20vw;
-  background: red;
 }
 
 #news-container {
-  display: flex;
-  flex-direction: column;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
   padding: 1rem;
   gap: 2rem;
 }
@@ -51,11 +51,14 @@ main .main-aside {
   background: var(--roxo4);
   height: 30rem;
   max-width: 500px;
+  width: 100%;
+  margin: auto;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
   border-radius: var(--cardBorder);
   position: relative;
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
 }
 
 .newsCard-img {
@@ -104,20 +107,23 @@ main .main-aside {
 .newsCard-text {
   height: 100%;
   padding: 1rem;
-  margin-top: 1rem;
+  margin-top: .5rem;
 }
 
 .newsTitle {
-  color: var(--amarelo1);
-  font-size: 1.5;
+  color: var(--roxo5);
+  text-align: center;
+  height: 25%;
 }
 
 .newsDesc {
+  height: 65%;
   padding-top: .6rem;
   text-align: justify;
   line-height: 1.5rem;
   font-size: 1.1rem;
   color: #7e7e7e;
+  overflow: auto;
 }
 
 .newsCard-date {
@@ -126,4 +132,9 @@ main .main-aside {
   bottom: 0;
   padding: .5rem;
   color: var(--branco);
+}
+
+.newsCard-img,
+.newsTitle {
+  cursor: pointer;
 }

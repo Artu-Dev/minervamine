@@ -3,7 +3,7 @@ header {
   height: 2rem;
   display: flex;
   align-items: center;
-  padding: 1.5rem;
+  padding: 2rem 2.5rem;
   background: #635985;
   position: fixed;
   z-index: 1;
@@ -18,7 +18,7 @@ nav {
 nav ul{
   list-style: none;
   display: flex;
-  gap: 1rem;
+  gap: 1.5rem;
 }
 
 nav ul li a{
@@ -26,6 +26,8 @@ nav ul li a{
   transition: ease .3s;
   cursor: pointer;
   text-decoration: none;
+  font-weight: 700;
+  font-size: 1.2rem;
 }
 
 nav ul li a:hover {
