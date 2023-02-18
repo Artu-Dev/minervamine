@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    
+    
+}
+
+
+
+.telalogin{
+    border: 10px solid darkorchid;
+    padding: 40px;
+}
+
+
+.botoes-container button{
+    font-size: 1.5rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+    
+}
+
+.espaços-container p{
+    font-size: 1rem;
+}
+
+.text-container {
+    font-size: 2rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
