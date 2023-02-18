@@ -14,6 +14,9 @@
 
 body{
     text-align: center;
+    display: flex;
+    
+    
 }
 
 
@@ -21,12 +24,14 @@ body{
 .telalogin{
     border: 10px solid darkorchid;
     padding: 40px;
+    
 }
 
 
 .botoes-container button{
     font-size: 1.5rem;
     font-family: Georgia, 'Times New Roman', Times, serif;
+    
     
     
 }
@@ -38,4 +43,5 @@ body{
 .text-container {
     font-size: 2rem;
     font-family: Arial, Helvetica, sans-serif;
+    
 }
