@@ -1,7 +1,19 @@
+:root {
+    --roxo1: #635985;
+    --roxo2: #443C68;
+    --roxo3: #393053;
+    --roxo4: #18122B;
+    --branco: #E1E8EB;
+    --cinza: #343A40;
+}
+/* isso aqui em cima sao variaveis, sao uteis!
+    para usar é so colocar algo tipo assim:
+    
+        color: var(--branco);
+*/
+
 body{
     text-align: center;
-    
-    
 }
 
 
