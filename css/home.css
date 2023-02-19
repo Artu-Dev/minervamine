@@ -43,7 +43,7 @@ main .main-primary{
 
 .newsCard {
   background: var(--roxo4);
-  height: 30rem;
+  height: 33rem;
   max-width: 500px;
   width: 100%;
   margin: auto;
@@ -53,6 +53,11 @@ main .main-primary{
   border-radius: var(--cardBorder);
   position: relative;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
+  transition: ease .3s;
+}
+
+.newsCard:hover{
+  scale: 1.05;
 }
 
 .newsCard-img {
@@ -101,13 +106,13 @@ main .main-primary{
 .newsCard-text {
   height: 100%;
   padding: 1rem;
-  margin-top: .5rem;
+  margin-top: 1rem;
 }
 
 .newsTitle {
   color: var(--roxo5);
   text-align: center;
-  height: 25%;
+  min-height: 25%;
 }
 
 .newsDesc {

@@ -1,34 +1,82 @@
 [
   {
     "id": 0,
-    "titulo": "Melhores jogadores Sky wars!",
-    "desc": "adbaubfasbvaduvbasivbsj svbaihnvadbvoa diabnaoibcaoibc",
-    "type": "artigo",
-    "img": "img/imagem.png",
-    "data": "19/05/2022"
+    "titulo": "Novo Minigame Adicionado ao Servidor!",
+    "desc": "Um novo minigame emocionante foi adicionado ao servidor. Prepare-se para se divertir muito jogando este jogo único e desafiador!",
+    "type": "noticia",
+    "img": "img/minigame.png",
+    "data": "02/03/2023"
   },
   {
     "id": 1,
-    "titulo": "Eventos De Carnaval Começam!",
-    "desc": "Os eventos de carnaval no servidor começaram com tudo! com 5+ minigames adicionados e promoções de carnaval na loja",
-    "type": "noticia",
-    "img": "img/imagem.png",
-    "data": "19/05/2022"
+    "titulo": "Servidor está passando por uma atualização importante",
+    "desc": "Estamos atualizando o servidor com as últimas correções e melhorias. Isso pode levar algumas horas e pode causar interrupções temporárias no serviço.",
+    "type": "aviso",
+    "img": "img/atualizacao.png",
+    "data": "10/03/2023"
   },
   {
     "id": 2,
-    "titulo": "Servidor entrara em manutenção",
-    "desc": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe amet est dolorum beatae veniam! Quae, necessitatibus quisquam? Rerum deserunt magni officia consequatur! Facere, nihil asperiores. Voluptatem rem totam culpa suscipit!",
-    "type": "aviso",
-    "img": "img/imagem2.png",
-    "data": "19/05/2022"
+    "titulo": "Novo recurso de personalização de personagem disponível!",
+    "desc": "A partir de hoje, você pode personalizar seu personagem com várias opções de roupas e acessórios exclusivos. Experimente agora e deixe seu personagem com a sua cara!",
+    "type": "noticia",
+    "img": "img/personalizacao.png",
+    "data": "15/03/2023"
   },
   {
     "id": 3,
-    "titulo": "eu odeio carnaval sou emo",
-    "desc": " sou antisocial",
-    "type": "artigo",
-    "img": "img/imagem2.png",
-    "data": "19/05/2022"
-  }
+    "titulo": "Problemas com a conexão do servidor resolvidos!",
+    "desc": "Estamos felizes em anunciar que resolvemos os problemas de conexão que alguns jogadores estavam enfrentando. Obrigado pela paciência e continue aproveitando o servidor!",
+    "type": "aviso",
+    "img": "img/conexao.png",
+    "data": "20/03/2023"
+  },
+  {
+    "id": 4,
+    "titulo": "Novo evento especial de Páscoa chegando!",
+    "desc": "Prepare-se para uma celebração emocionante de Páscoa no servidor. Haverá novos minigames, promoções na loja e muito mais. Não perca!",
+    "type": "noticia",
+    "img": "img/pascoa.png",
+    "data": "25/03/2023"
+  },
+  {
+    "id": 5,
+    "titulo": "Servidor atinge novo recorde de jogadores online!",
+    "desc": "Com mais de 10.000 jogadores online simultaneamente, estamos muito felizes em anunciar que o servidor bateu um novo recorde de jogadores online. Obrigado a todos pela sua contínua participação!",
+    "type": "noticia",
+    "img": "img/recorde.png",
+    "data": "01/04/2023"
+  },
+  {
+    "id": 6,
+    "titulo": "Mantenha sua conta segura com autenticação de dois fatores",
+    "desc": "Para manter sua conta segura, recomendamos que você habilite a autenticação de dois fatores em sua conta. Isso ajudará a evitar que hackers e invasores acessem sua conta.",
+    "type": "aviso",
+    "img": "img/seguranca.png",
+    "data": "05/04/2023"
+  },
+  {
+    "id": 7,
+    "titulo": "Evento de Aniversário do Servidor chegando!",
+    "desc": "O servidor está completando 3 anos e estamos preparando um grande evento para celebrar. Fique de olho nas novidades e participe das atividades para ganhar prêmios exclusivos!",
+    "type": "noticia",
+    "img": "img/aniversario.png",
+    "data": "10/04/2023"
+    },
+    {
+    "id": 8,
+    "titulo": "Novo minigame de corrida adicionado!",
+    "desc": "Acelere e sinta a adrenalina com o novo minigame de corrida. Convide seus amigos e competidores para ver quem é o melhor piloto no servidor!",
+    "type": "noticia",
+    "img": "img/corrida.png",
+    "data": "15/04/2023"
+    },
+    {
+    "id": 9,
+    "titulo": "Manutenção programada para esta semana",
+    "desc": "Estamos programando uma manutenção para o servidor esta semana para fazer algumas melhorias importantes. O tempo de inatividade esperado é de aproximadamente 1 hora.",
+    "type": "aviso",
+    "img": "img/manutencao.png",
+    "data": "20/04/2023"
+    }
 ]
