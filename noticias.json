@@ -19,7 +19,7 @@
     "id": 2,
     "titulo": "Novo recurso de personalização de personagem disponível!",
     "desc": "A partir de hoje, você pode personalizar seu personagem com várias opções de roupas e acessórios exclusivos. Experimente agora e deixe seu personagem com a sua cara!",
-    "type": "noticia",
+    "type": "artigo",
     "img": "img/personalizacao.png",
     "data": "15/03/2023"
   },
@@ -35,7 +35,7 @@
     "id": 4,
     "titulo": "Novo evento especial de Páscoa chegando!",
     "desc": "Prepare-se para uma celebração emocionante de Páscoa no servidor. Haverá novos minigames, promoções na loja e muito mais. Não perca!",
-    "type": "noticia",
+    "type": "artigo",
     "img": "img/pascoa.png",
     "data": "25/03/2023"
   },
