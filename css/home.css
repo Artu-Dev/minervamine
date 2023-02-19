@@ -157,15 +157,24 @@ main .main-aside {
   margin-bottom: 2rem;
 }
 
-.ip h2 {
+.ip h2  {
+  color: var(--branco);
   font-size: 1.2rem;
-  padding-top: .5rem;
+  margin-top: 1rem;
   background: var(--roxo1);
   padding: 1rem;
   border-radius: var(--cardBorder);
   transition: ease .3s;
   cursor: pointer;
   box-shadow: var(--shadow);
+}
+.ip h2 span {
+  display: inline-block;
+}
+
+.ip h2 input {
+  z-index: -1;
+  position: absolute;
 }
 
 .ip h2 i {
@@ -176,6 +185,12 @@ main .main-aside {
   background: var(--branco);
   color: #18122B;
 }
+
+.ip .copiado,
+.ip .copiado:hover {
+  background: var(--verde3);
+}
+
 
 .social-networks {
   display: flex;

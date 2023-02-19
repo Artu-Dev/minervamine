@@ -1,4 +1,6 @@
 const newsContainer = document.querySelector("#news-container");
+const serverIP = document.querySelector("#serverIP");
+const copyBtn = document.querySelector("#copyIPbtn");
 
 const printNews = async() => {
   const response = await fetch('./noticias.json');
@@ -26,3 +28,16 @@ const printNews = async() => {
   
 }
 printNews()
+
+
+copyBtn.addEventListener('click', () => {
+  const btnText = copyBtn.querySelector(".ipText");
+  serverIP.select();
+  document.execCommand('copy');
+  btnText.textContent = "Texto copiado";
+  copyBtn.classList.add('copiado');
+  setTimeout(() => {
+    btnText.textContent = "MinervaCraft.MC";
+    copyBtn.classList.remove('copiado');
+  }, 2000);
+})
