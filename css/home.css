@@ -34,6 +34,12 @@ main .main-primary{
   border-radius: var(--cardBorder);
 }
 
+main .main-primary > h1 {
+  text-align: center;
+  font-size: 2.5rem;
+  padding: 1rem 0;
+}
+
 #news-container {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
@@ -62,7 +68,7 @@ main .main-primary{
 
 .newsCard-img {
   width: 100%;
-  height: 45%;
+  min-height: 45%;
   position: relative;
 }
 
@@ -188,7 +194,8 @@ main .main-aside {
 
 .ip .copiado,
 .ip .copiado:hover {
-  background: var(--verde3);
+  background: rgb(3, 189, 34);
+  color: var(--roxo4);
 }
 
 
@@ -220,4 +227,36 @@ main .main-aside {
 
 .social-networks a:hover {
   background: var(--roxo5);
+}
+@media screen and (max-width: 520px) {
+  main {
+    padding: 0;
+    padding-top: 4rem;
+    display: flex;
+    flex-direction: column-reverse;
+    gap: 0rem;
+  }
+  main .main-primary{
+    width: 100%;
+    border-radius: 0 ;
+  }
+  #news-container {
+    grid-template-columns: 1fr;
+  }
+  main .main-aside {
+    display: block;
+    min-width: 100%;
+  }
+  .gif {
+    margin-top: 1rem;
+    text-align: center;
+  }
+  .gif img {
+    width: 80%;
+  }
+  .ip,
+  .social-networks{
+    border-radius: 0;
+    margin: 0;
+  }
 }
