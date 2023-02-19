@@ -6,11 +6,6 @@
     --branco: #E1E8EB;
     --cinza: #343A40;
 }
-/* isso aqui em cima sao variaveis, sao uteis!
-    para usar é so colocar algo tipo assim:
-    
-        color: var(--branco);
-*/
 
 
 main{
@@ -26,9 +21,7 @@ main{
 
 body{
     text-align: center;
-    height: 100vh;
-   
-    
+    height: 100vh;    
     
 }
 
