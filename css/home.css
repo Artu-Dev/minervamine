@@ -133,8 +133,8 @@ main .main-primary > h1 {
 
 .newsCard-date {
   position: absolute;
-  right: 0;
-  bottom: 0;
+  right: .6rem;
+  bottom: .6rem;
   padding: .5rem;
   color: var(--branco);
 }
