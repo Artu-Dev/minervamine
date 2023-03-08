@@ -63,7 +63,7 @@ main .main-primary > h1 {
 }
 
 .newsCard:hover{
-  scale: 1.05;
+  scale: 1.02;
 }
 
 .newsCard-img {
@@ -142,6 +142,37 @@ main .main-primary > h1 {
 .newsCard-img,
 .newsTitle {
   cursor: pointer;
+}
+
+#paginate-numbers {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.5rem;
+  padding: 1rem;
+}
+#paginate-numbers div {
+  color: var(--branco);
+  font-size: 1.3rem;
+  font-weight: 800;
+  cursor: pointer;
+  transition: all ease .3s;
+}
+
+#paginate-numbers div:hover {
+  color: var(--amarelo1);
+}
+
+#paginate-numbers .active {
+  color: var(--amarelo1);
+}
+
+#Numbers {
+  display: flex;
+  gap: 1rem;
+}
+#Numbers div {
+  font-size: 1.2rem;
 }
 
 main .main-aside {
@@ -229,6 +260,14 @@ main .main-aside {
 
 .social-networks a:hover {
   background: var(--roxo5);
+}
+
+footer {
+  margin-top: 10rem;
+  height: 10rem;
+  background: black;
+  display: grid;
+  place-items: center;
 }
 @media screen and (max-width: 520px) {
   main {
