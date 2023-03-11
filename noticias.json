@@ -5,7 +5,8 @@
     "desc": "Um novo minigame emocionante foi adicionado ao servidor. Prepare-se para se divertir muito jogando este jogo único e desafiador!",
     "type": "noticia",
     "img": "img/minigame.png",
-    "data": "02/03/2023"
+    "data": "02/03/2023",
+    "link": "/pages/article/index.html?news=minigame"
   },
   {
     "id": 1,
@@ -13,7 +14,8 @@
     "desc": "Estamos atualizando o servidor com as últimas correções e melhorias. Isso pode levar algumas horas e pode causar interrupções temporárias no serviço.",
     "type": "aviso",
     "img": "img/atualizacao.png",
-    "data": "10/03/2023"
+    "data": "10/03/2023",
+    "link": "/pages/article/index.html?news=atualizacao"
   },
   {
     "id": 2,
@@ -21,7 +23,8 @@
     "desc": "A partir de hoje, você pode personalizar seu personagem com várias opções de roupas e acessórios exclusivos. Experimente agora e deixe seu personagem com a sua cara!",
     "type": "artigo",
     "img": "img/personalizacao.png",
-    "data": "15/03/2023"
+    "data": "15/03/2023",
+    "link": "/pages/article/index.html?news=personalizacao"
   },
   {
     "id": 3,
@@ -29,7 +32,8 @@
     "desc": "Estamos felizes em anunciar que resolvemos os problemas de conexão que alguns jogadores estavam enfrentando. Obrigado pela paciência e continue aproveitando o servidor!",
     "type": "aviso",
     "img": "img/conexao.png",
-    "data": "20/03/2023"
+    "data": "20/03/2023",
+    "link": "/pages/article/index.html?news=conexao"
   },
   {
     "id": 4,
@@ -37,7 +41,8 @@
     "desc": "Prepare-se para uma celebração emocionante de Páscoa no servidor. Haverá novos minigames, promoções na loja e muito mais. Não perca!",
     "type": "artigo",
     "img": "img/pascoa.png",
-    "data": "25/03/2023"
+    "data": "25/03/2023",
+    "link": "/pages/article/index.html?news=pascoa"
   },
   {
     "id": 5,
@@ -45,7 +50,8 @@
     "desc": "Com mais de 10.000 jogadores online simultaneamente, estamos muito felizes em anunciar que o servidor bateu um novo recorde de jogadores online. Obrigado a todos pela sua contínua participação!",
     "type": "noticia",
     "img": "img/recorde.png",
-    "data": "01/04/2023"
+    "data": "01/04/2023",
+    "link": "/pages/article/index.html?news=recorde"
   },
   {
     "id": 6,
@@ -53,7 +59,8 @@
     "desc": "Para manter sua conta segura, recomendamos que você habilite a autenticação de dois fatores em sua conta. Isso ajudará a evitar que hackers e invasores acessem sua conta.",
     "type": "aviso",
     "img": "img/seguranca.png",
-    "data": "05/04/2023"
+    "data": "05/04/2023",
+    "link": "/pages/article/index.html?news=seguranca"
   },
   {
     "id": 7,
@@ -61,7 +68,8 @@
     "desc": "O servidor está completando 3 anos e estamos preparando um grande evento para celebrar. Fique de olho nas novidades e participe das atividades para ganhar prêmios exclusivos!",
     "type": "noticia",
     "img": "img/aniversario.png",
-    "data": "10/04/2023"
+    "data": "10/04/2023",
+    "link": "/pages/article/index.html?news=aniversario"
     },
     {
     "id": 8,
@@ -69,7 +77,8 @@
     "desc": "Acelere e sinta a adrenalina com o novo minigame de corrida. Convide seus amigos e competidores para ver quem é o melhor piloto no servidor!",
     "type": "noticia",
     "img": "img/corrida.png",
-    "data": "15/04/2023"
+    "data": "15/04/2023",
+    "link": "/pages/article/index.html?news=corrida"
     },
     {
     "id": 9,
@@ -77,6 +86,7 @@
     "desc": "Estamos programando uma manutenção para o servidor esta semana para fazer algumas melhorias importantes. O tempo de inatividade esperado é de aproximadamente 1 hora.",
     "type": "aviso",
     "img": "img/manutencao.png",
-    "data": "20/04/2023"
+    "data": "20/04/2023",
+    "link": "/pages/article/index.html?news=manutencao"
     }
 ]

@@ -2,6 +2,9 @@ const newsContainer = document.querySelector("#news-container");
 const serverIP = document.querySelector("#serverIP");
 const copyBtn = document.querySelector("#copyIPbtn");
 
+const url = new URL(window.location.href);
+let urlPage = url.searchParams.get("page");
+
 async function getNews()  {
   const response = await fetch('./noticias.json');
   let news = await response.json();
@@ -19,11 +22,12 @@ getNews()
 
     const itemsPerPage = 6;
     const state = {
-      page: 1,
+      page: (urlPage||1),
       itemsPerPage,
       totalPages: Math.ceil(items.length / itemsPerPage),
       maxNumbers: 5,
     };
+
     const controls = {
       next() {
         if(state.page < state.totalPages) {
@@ -91,9 +95,9 @@ getNews()
       newsContainer.innerHTML='';
       news.map((noticia) => {
         newsContainer.innerHTML += `
-          <div class="newsCard">
+          <a class="newsCard" href="${noticia.link}">
             <div class="newsCard-img">
-              <img src="${noticia.img}">
+              <img src="${noticia.img}" loading="lazy" alt="${noticia.titulo}">
               <div class="newsCard-type ${noticia.type}">${noticia.type}</div>
             </div>
             <div class="newsCard-text">
@@ -105,7 +109,7 @@ getNews()
               </div>
             </div>
             <div class="newsCard-date">${noticia.data}</div>
-          </div>
+          </a>
         `;
       })
     }
@@ -124,12 +128,18 @@ getNews()
     function update() {
       print()
       numbers.update();
-      console.log("pagina: "+state.page)
+      //console.log("pagina: "+state.page)
+      history.pushState(null, null, "?page="+state.page)
+      window.scrollTo({top: 0, behavior: "smooth"})
+    }
 
-      //window.scrollTo({top: 0, behavior: "smooth"})
+    function urlVerify() {
+      if (urlPage >= state.totalPages) state.page = state.totalPages;
+      if (urlPage <= 1 ) state.page = 1; 
     }
 
     function init() {
+      urlVerify()
       controls.addEvents()
       update();
     }

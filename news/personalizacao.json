@@ -1,0 +1,53 @@
+{
+  "tipo": "artigo",
+  "titulo": "Novo recurso de personalização de personagem disponível!",
+  "subtitulo": "A partir de hoje, você pode personalizar seu personagem com várias opções de roupas e acessórios exclusivos. Experimente agora e deixe seu personagem com a sua cara!",
+  "data_publicacao": "15/03/2023",
+  "tempo_leitura": "3 minutos",
+  "autor": "Lorem Ipsum da Silva",
+  "imagem": "../../img/personalizacao.png",
+  "texto": [
+    {
+      "tipo": "titulo",
+      "conteudo": "Personalize seu personagem com diversas opções!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O novo recurso de personalização de personagens está revolucionando o mundo dos jogos. Agora, você pode escolher entre diversas opções de roupas, acessórios, penteados e muito mais, para deixar seu personagem com a sua cara e destacar-se na multidão!"
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Imagem+de+roupas",
+      "legenda": "Experimente diferentes opções de roupas e acessórios exclusivos."
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Se você gosta de um estilo mais despojado, pode escolher camisetas estampadas, calças rasgadas e tênis descolados. Já se prefere um estilo mais formal, pode optar por ternos elegantes e sapatos sociais. E se quiser algo mais ousado, pode experimentar roupas e acessórios temáticos, como fantasias de super-heróis ou de personagens de filmes e séries."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Personalize também o visual do seu ambiente!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Além de personalizar o visual do seu personagem, agora você também pode personalizar o visual do seu ambiente de jogo. Escolha entre diversas opções de decoração, como móveis, quadros, plantas e muito mais, para deixar o ambiente do seu jogo do jeito que você sempre quis!"
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Imagem+de+decoracao",
+      "legenda": "Personalize o visual do seu ambiente com diversas opções de decoração!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "E não se preocupe com a compatibilidade entre as roupas e acessórios do seu personagem e a decoração do seu ambiente. Com o novo recurso de personalização, todas as opções estão perfeitamente integradas e combinam entre si, para criar um ambiente único e personalizado."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Experimente agora e divirta-se!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O novo recurso de personalização de personagens está disponível agora mesmo. Não perca mais tempo com personagens padronizados e sem personalidade. Experimente agora mesmo e experimente agora mesmo e divirta-se criando um personagem único e um ambiente personalizado para seus jogos favoritos! Com tantas opções de personalização, a diversão é garantida."
+    }
+  ]
+}

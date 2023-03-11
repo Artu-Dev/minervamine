@@ -1,0 +1,37 @@
+{
+  "tipo": "aviso",
+  "titulo": "Servidor está passando por uma atualização importante",
+  "subtitulo": "Estamos atualizando o servidor com as últimas correções e melhorias. Isso pode levar algumas horas e pode causar interrupções temporárias no serviço.",
+  "data_publicacao": "11/03/2023",
+  "tempo_leitura": "2 minutos",
+  "autor": "ChatGPT",
+  "imagem": "../../img/atualizacao.png",
+  "texto": [
+    {
+      "tipo": "titulo",
+      "conteudo": "Servidor em manutenção"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Estamos realizando uma atualização importante no servidor. Com esta atualização, esperamos corrigir bugs, melhorar o desempenho e adicionar novas funcionalidades para uma experiência de usuário ainda melhor."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://placeholder.com/600x400/0077B6",
+      "legenda": "imagem"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "No entanto, essa atualização pode levar algumas horas para ser concluída e pode causar interrupções temporárias no serviço. Pedimos desculpas antecipadamente pelos inconvenientes causados ​​e agradecemos a compreensão de todos durante esse período."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://placeholder.com/600x400/f12706",
+      "legenda": "imagem "
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Por favor, fique atento às nossas redes sociais para atualizações e notícias sobre o progresso da manutenção do servidor."
+    }
+  ]
+}

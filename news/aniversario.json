@@ -1,0 +1,58 @@
+{
+  "tipo": "noticia",
+  "titulo": "Evento de Aniversário do Servidor chegando!",
+  "subtitulo": "O servidor está completando 3 anos e estamos preparando um grande evento para celebrar. Fique de olho nas novidades e participe das atividades para ganhar prêmios exclusivos!",
+  "data_publicacao": "11/03/2023",
+  "tempo_leitura": "3 minutos",
+  "autor": "João da Silva",
+  "imagem": "../../img/aniversario.png",
+  "texto": [
+    {
+      "tipo": "titulo",
+      "conteudo": "Atividades exclusivas para o aniversário"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Durante o evento de aniversário, teremos várias atividades exclusivas para os jogadores participarem e ganharem prêmios especiais."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Atividade+1",
+      "legenda": "Uma das atividades do evento será uma corrida de obstáculos com prêmios para os vencedores."
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Uma das atividades será uma corrida de obstáculos onde os jogadores terão que superar vários desafios e obstáculos para chegar ao final e ganhar prêmios exclusivos."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Atividade+2",
+      "legenda": "Outra atividade será um jogo de perguntas e respostas com prêmios para os jogadores que acertarem mais perguntas."
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Também teremos um jogo de perguntas e respostas onde os jogadores que acertarem mais perguntas poderão ganhar prêmios exclusivos."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Promoções especiais na loja"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Durante o evento, também teremos promoções especiais na loja do servidor, onde os jogadores poderão adquirir itens exclusivos com descontos incríveis."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Promoções+na+loja",
+      "legenda": "Aproveite as promoções especiais na loja do servidor durante o evento de aniversário."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Mensagem de agradecimento"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Por fim, gostaríamos de agradecer a todos os jogadores que fizeram parte desta jornada de 3 anos do servidor. Sem vocês, nada disso seria possível. Esperamos continuar contando com sua presença e participação nas próximas aventuras!"
+    }
+  ]
+}

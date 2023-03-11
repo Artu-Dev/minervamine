@@ -1,0 +1,57 @@
+{
+  "tipo": "noticia",
+  "titulo": "Servidor atinge novo recorde de jogadores online!",
+  "subtitulo": "Com mais de 10.000 jogadores online simultaneamente, estamos muito felizes em anunciar que o servidor bateu um novo recorde de jogadores online. Obrigado a todos pela sua contínua participação!",
+  "data_publicacao": "12/03/2023",
+  "tempo_leitura": "3 minutos",
+  "autor": "Ana Souza",
+  "imagem": "../../img/recorde.png",
+  "texto": [
+  {
+  "tipo": "titulo",
+  "conteudo": "Novos recursos para melhorar sua experiência"
+  },
+  {
+  "tipo": "paragrafo",
+  "conteudo": "Para garantir que você tenha a melhor experiência possível no servidor, adicionamos novos recursos para melhorar a jogabilidade e a estabilidade do servidor."
+  },
+  {
+  "tipo": "titulo",
+  "conteudo": "Promoção de lançamento de pacotes de itens exclusivos"
+  },
+  {
+  "tipo": "imagem",
+  "url": "https://via.placeholder.com/600x400.png?text=Imagem+de+itens",
+  "legenda": "Não perca a chance de comprar os pacotes de itens exclusivos em nossa promoção de lançamento."
+  },
+  {
+  "tipo": "paragrafo",
+  "conteudo": "Aproveite agora nossa promoção de lançamento e adquira pacotes de itens exclusivos com desconto."
+  },
+  {
+  "tipo": "titulo",
+  "conteudo": "Evento de fim de semana"
+  },
+  {
+  "tipo": "imagem",
+  "url": "https://via.placeholder.com/600x400.png?text=Imagem+de+evento",
+  "legenda": "Participe do evento de fim de semana e ganhe prêmios incríveis."
+  },
+  {
+  "tipo": "paragrafo",
+  "conteudo": "Não perca o evento de fim de semana e ganhe prêmios incríveis, como skins exclusivas e itens raros."
+  },
+  {
+  "tipo": "titulo",
+  "conteudo": "Comunidade ativa"
+  },
+  {
+  "tipo": "paragrafo",
+  "conteudo": "Nosso servidor é conhecido por ter uma comunidade ativa e engajada. Junte-se a nós e faça novas amizades enquanto joga seus jogos favoritos."
+  },
+  {
+  "tipo": "paragrafo",
+  "conteudo": "Com mais de 10.000 jogadores online simultaneamente, a diversão nunca para no nosso servidor. Junte-se a nós e faça parte da nossa comunidade."
+  }
+  ]
+  }

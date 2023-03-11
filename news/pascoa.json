@@ -1,0 +1,45 @@
+{
+  "tipo": "artigo",
+  "titulo": "Novo evento especial de Páscoa chegando!",
+  "subtitulo": "Prepare-se para uma celebração emocionante de Páscoa no servidor. Haverá novos minigames, promoções na loja e muito mais. Não perca!",
+  "data_publicacao": "20/03/2023",
+  "tempo_leitura": "2 minutos",
+  "autor": "Pedro Almeida",
+  "imagem": "../../img/pascoa.png",
+  "texto": [
+    {
+      "tipo": "titulo",
+      "conteudo": "Celebre a Páscoa conosco!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Estamos animados em anunciar que um novo evento especial de Páscoa está chegando ao nosso servidor. Prepare-se para uma celebração emocionante, com muitas atividades divertidas para toda a comunidade."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Ovos+de+Páscoa",
+      "legenda": "Participe da busca pelos ovos de Páscoa e ganhe prêmios exclusivos!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Durante o evento, os jogadores terão a oportunidade de participar de novos minigames temáticos de Páscoa e de outras atividades emocionantes. Além disso, nossa loja terá promoções especiais para a ocasião, com itens exclusivos e descontos incríveis."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Eventos e Minigames especiais!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "E não se esqueça da tradicional busca pelos ovos de Páscoa espalhados pelo servidor. Encontre todos os ovos e ganhe prêmios exclusivos que só estarão disponíveis durante o evento. Não perca a chance de se divertir e ganhar prêmios incríveis!"
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Evento+Páscoa",
+      "legenda": "Não perca o evento de Páscoa no nosso servidor!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Fique atento às nossas redes sociais e fóruns para mais informações sobre o evento, incluindo as datas e horários específicos. Esperamos que todos possam participar e desfrutar deste momento especial de celebração. Feliz Páscoa!"
+    }
+  ]
+}

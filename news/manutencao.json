@@ -1,0 +1,48 @@
+{
+  "tipo": "aviso",
+  "titulo": "Manutenção programada para esta semana",
+  "subtitulo": "Estamos programando uma manutenção para o servidor esta semana para fazer algumas melhorias importantes. O tempo de inatividade esperado é de aproximadamente 1 hora.",
+  "data_publicacao": "14/03/2023",
+  "tempo_leitura": "1 minuto",
+  "autor": "Administração do servidor",
+  "imagem": "../../img/manutencao.png",
+  "texto": [
+    {
+      "tipo": "titulo",
+      "conteudo": "Detalhes da manutenção"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "A manutenção está programada para começar às 10h (horário de Brasília) na quarta-feira, 16 de março de 2023. Durante esse tempo, o servidor ficará inativo e você não poderá acessar seus recursos."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Por que precisamos fazer a manutenção?"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Estamos fazendo algumas melhorias importantes em nossos sistemas para garantir que o servidor continue funcionando de maneira eficiente e segura. Agradecemos sua paciência e compreensão."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Imagem+de+manutencao",
+      "legenda": "O servidor estará temporariamente inativo durante a manutenção."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "O que acontece se eu estiver conectado durante a manutenção?"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Se você estiver conectado quando a manutenção começar, será desconectado automaticamente. Certifique-se de salvar seu progresso antes da manutenção começar para evitar qualquer perda de dados."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Quando o servidor estará disponível novamente?"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Esperamos que o servidor esteja disponível novamente em aproximadamente 1 hora após o início da manutenção. No entanto, o tempo de inatividade pode ser mais longo se encontrarmos algum problema inesperado durante a manutenção."
+    }
+  ]
+}

@@ -60,6 +60,7 @@ main .main-primary > h1 {
   position: relative;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.2);
   transition: ease .3s;
+  text-decoration: none;
 }
 
 .newsCard:hover{
@@ -160,7 +161,7 @@ main .main-primary > h1 {
 }
 
 #paginate-numbers div:hover {
-  color: var(--amarelo1);
+  color: var(--laranja1);
 }
 
 #paginate-numbers .active {

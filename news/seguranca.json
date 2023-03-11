@@ -1,0 +1,73 @@
+{
+  "tipo": "aviso",
+  "titulo": "Mantenha sua conta segura com autenticação de dois fatores",
+  "subtitulo": "Para manter sua conta segura, recomendamos que você habilite a autenticação de dois fatores em sua conta. Isso ajudará a evitar que hackers e invasores acessem sua conta.",
+  "data_publicacao": "11/03/2023",
+  "tempo_leitura": "5 minutos",
+  "autor": "João da Silva",
+  "imagem": "../../img/seguranca.png",
+  "texto": [
+    {
+      "tipo": "titulo",
+      "conteudo": "Por que a autenticação de dois fatores é importante?"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "A autenticação de dois fatores (também conhecida como 2FA) é uma camada adicional de segurança que protege sua conta de invasores. Com a autenticação de dois fatores ativada, você precisará fornecer duas formas diferentes de identificação para fazer login na sua conta."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Imagem+de+autenticacao+de+dois+fatores",
+      "legenda": "Ative a autenticação de dois fatores para manter sua conta segura."
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Por exemplo, além de inserir sua senha, você também precisará inserir um código de segurança único enviado para o seu celular ou e-mail. Isso significa que mesmo se um hacker conseguir descobrir sua senha, ele ainda precisará do seu dispositivo para acessar sua conta."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Como habilitar a autenticação de dois fatores?"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Habilitar a autenticação de dois fatores é fácil. Basta seguir estes passos:"
+    },   {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Imagem+de+passo+a+passo",
+      "legenda": "Ative a autenticação de dois fatores para manter sua conta segura."
+    },
+    {
+      "tipo": "lista",
+      "conteudo": [
+        "Faça login na sua conta",
+        "Clique no seu perfil e selecione 'Configurações'",
+        "Selecione 'Segurança'",
+        "Clique em 'Habilitar autenticação de dois fatores'",
+        "Siga as instruções na tela para concluir a configuração"
+      ]
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Dicas para manter sua conta segura"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Além de habilitar a autenticação de dois fatores, aqui estão algumas dicas adicionais para manter sua conta segura:"
+    },
+    {
+      "tipo": "lista",
+      "conteudo": [
+        "Use uma senha forte e exclusiva para cada conta",
+        "Não compartilhe suas informações de login com ninguém",
+        "Mantenha seu software antivírus atualizado",
+        "Evite clicar em links suspeitos ou fazer download de anexos desconhecidos",
+        "Fique atento a atividades suspeitas na sua conta"
+      ]
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Imagem+de+autenticacao+de+dois+fatores",
+      "legenda": "Ative a autenticação de dois fatores para manter sua conta segura."
+    }
+  ]
+}

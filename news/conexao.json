@@ -1,0 +1,37 @@
+{
+  "tipo": "aviso",
+  "titulo": "Problemas com a conexão do servidor resolvidos!",
+  "subtitulo": "Estamos felizes em anunciar que resolvemos os problemas de conexão que alguns jogadores estavam enfrentando. Obrigado pela paciência e continue aproveitando o servidor!",
+  "data_publicacao": "15/03/2023",
+  "tempo_leitura": "1 minuto",
+  "autor": "Maria Santos",
+  "imagem": "../../img/conexao.png",
+  "texto": [
+    {
+      "tipo": "titulo",
+      "conteudo": "O servidor está de volta!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Estamos felizes em anunciar que os problemas de conexão que alguns jogadores estavam enfrentando foram resolvidos. Sentimos muito por qualquer inconveniente causado e agradecemos pela paciência e compreensão de todos."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Jogadores+jogando",
+      "legenda": "Jogue novamente e divirta-se!"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Sabemos o quanto é frustrante ter problemas com a conexão do servidor, e queremos que você saiba que estamos comprometidos em manter nosso servidor funcionando sem problemas. Nossa equipe técnica trabalhou duro para solucionar o problema e garantir que todos os jogadores possam desfrutar do nosso servidor sem interrupções."
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Por favor, não hesite em nos contatar se ainda estiver enfrentando problemas de conexão ou tiver alguma dúvida. Queremos garantir que sua experiência em nosso servidor seja a melhor possível. Obrigado novamente pela paciência e continue aproveitando o jogo!"
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Servidor+online",
+      "legenda": "O servidor está de volta online, jogue agora!"
+    }
+  ]
+}

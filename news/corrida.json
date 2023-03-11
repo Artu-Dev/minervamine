@@ -1,0 +1,63 @@
+{
+  "tipo": "noticia",
+  "titulo": "Novo minigame de corrida adicionado!",
+  "subtitulo": "Acelere e sinta a adrenalina com o novo minigame de corrida. Convide seus amigos e competidores para ver quem é o melhor piloto no servidor!",
+  "data_publicacao": "11/03/2023",
+  "tempo_leitura": "3 minutos",
+  "autor": "João da Silva",
+  "imagem": "../../img/corrida.png",
+  "texto": [
+    {
+      "tipo": "titulo",
+      "conteudo": "Prepare-se para correr como nunca antes!"
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Corrida",
+      "legenda": "Acelere e sinta a adrenalina"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O servidor acaba de lançar o mais novo minigame de corrida. Este é o lugar onde os pilotos se encontram para competir em corridas emocionantes em alta velocidade, ultrapassando obstáculos e adversários."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Desafie seus amigos e mostre suas habilidades de pilotagem"
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Convidar+amigos",
+      "legenda": "Convide seus amigos para competir com você"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O minigame de corrida é uma ótima maneira de mostrar suas habilidades de pilotagem e competir contra amigos e jogadores de todo o mundo. Convide seus amigos para jogar e mostre suas habilidades de pilotagem."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Corra em circuitos emocionantes"
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Circuitos",
+      "legenda": "Circuitos emocionantes"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "O minigame de corrida possui diversos circuitos emocionantes que testarão suas habilidades de pilotagem. Você encontrará circuitos urbanos, em estradas de terra e também em circuitos fechados. Cada circuito possui seus próprios desafios, então prepare-se para enfrentar os obstáculos e chegar em primeiro lugar."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Ganhe prêmios exclusivos"
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://via.placeholder.com/600x400.png?text=Premios",
+      "legenda": "Ganhe prêmios exclusivos"
+    },
+    {
+      "tipo": "paragrafo",
+      "conteudo": "Além da emoção de competir contra outros jogadores, você também pode ganhar prêmios exclusivos ao jogar o minigame de corrida. Os prêmios incluem itens especiais, bônus e moedas que podem ser usados em outras partes do servidor. Corra e ganhe!"
+    }
+  ]
+}

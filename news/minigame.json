@@ -1,0 +1,75 @@
+{
+  "tipo": "noticia",
+  "titulo": "Novo <span>Minigame</span> Adicionado ao Servidor!",
+  "subtitulo": "Um novo minigame emocionante foi adicionado ao servidor. Prepare-se para se divertir muito jogando este jogo único e desafiador!",
+  "data_publicacao": "10/03/2023",
+  "tempo_leitura": "3 minutos",
+  "autor": "João da Silva",
+  "imagem": "../../img/minigame.png",
+  "texto": [
+    {
+      "tipo": "titulo",
+      "conteudo": "Uma nova aventura no Minecraft: O Labirinto Mortal"
+    },
+    {
+    "tipo": "paragrafo",
+    "conteudo": "Se você é um jogador de Minecraft em busca de novas aventuras, então você precisa conferir o Labirinto Mortal. Este novo minigame oferece um desafio emocionante para jogadores de todas as habilidades, com obstáculos únicos e um ambiente imprevisível."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://placeholder.com/600x400/0077B6",
+      "legenda": "imagem do minigame"
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Junte-se com seus amigos e enfrente o desafio"
+    },
+    {
+    "tipo": "paragrafo",
+    "conteudo": "O Labirinto Mortal é jogado em equipes de dois a quatro jogadores, e é aí que a diversão começa. Ao trabalhar em conjunto, os jogadores podem encontrar soluções criativas para os obstáculos que encontrarem pelo caminho, além de aumentarem as chances de sucesso ao chegarem à saída."
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Cuidado com as armadilhas"
+    },
+    {
+    "tipo": "paragrafo",
+    "conteudo": "Cuidado com as armadilhas! O caminho para a saída pode ser longo e perigoso, com armadilhas espalhadas por todo o labirinto. Cada armadilha é projetada para retardar o progresso dos jogadores e dificultar ainda mais o desafio."
+    },
+    {
+    "tipo": "imagem",
+    "url": "https://placeholder.com/600x400/2C5F2D",
+    "legenda": "imagem de armadilha"
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "Power-ups podem ser a chave para a vitória"
+    },
+    {
+    "tipo": "paragrafo",
+    "conteudo": "Ao longo do caminho, os jogadores podem encontrar power-ups que podem ajudá-los a superar os obstáculos com mais facilidade. Esses itens incluem poções que podem curar ferimentos, armadilhas que podem atrapalhar a equipe adversária e chaves que podem desbloquear portas importantes."
+    },
+    {
+      "tipo": "imagem",
+      "url": "https://placeholder.com/600x400/FF5733",
+      "legenda": "imagem de power-ups"
+    },
+    {
+      "tipo": "titulo",
+      "conteudo": "A estratégia é fundamental"
+    },
+    {
+    "tipo": "paragrafo",
+    "conteudo": "Para vencer o Labirinto Mortal, é preciso mais do que habilidade. Os jogadores precisam pensar em equipe e criar estratégias para lidar com os obstáculos ao longo do caminho. Cada equipe tem sua própria abordagem, e a vitória vai para a que melhor souber trabalhar junta."
+    },
+    {
+    "tipo": "titulo",
+    "conteudo": "Prepare-se para um desafio emocionante"
+    },
+    {
+    "tipo": "paragrafo",
+    "conteudo": "O Labirinto Mortal é um novo minigame que oferece uma experiência emocionante e única para jogadores de todas as habilidades. Com armadilhas mortais, power-ups e um ambiente imprevisível, este jogo vai manter você em suspense do começo ao fim. Junte-se a seus amigos e teste suas habilidades no Labirinto Mortal hoje mesmo!"
+    }
+  ]
+}
+
