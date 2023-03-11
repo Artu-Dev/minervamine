@@ -49,7 +49,7 @@ main .main-primary > h1 {
 
 .newsCard {
   background: var(--roxo4);
-  height: 33rem;
+  height: 38.5rem;
   max-width: 500px;
   width: 100%;
   margin: auto;
@@ -76,6 +76,7 @@ main .main-primary > h1 {
 .newsCard-type {
   background: var(--roxo5);
   color: #18122B;
+  text-shadow: 1px 2px 0px rgba(0, 0, 0, 0.5);
   text-transform: uppercase;
   font-size: 1.3rem;
   font-weight: 700;
@@ -128,7 +129,7 @@ main .main-primary > h1 {
   text-align: justify;
   line-height: 1.5rem;
   font-size: 1.1rem;
-  color: #7e7e7e;
+  color: #a5a5a5;
   overflow: auto;
 }
 

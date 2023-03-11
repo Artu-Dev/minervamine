@@ -4,7 +4,7 @@
     "titulo": "Novo Minigame Adicionado ao Servidor!",
     "desc": "Um novo minigame emocionante foi adicionado ao servidor. Prepare-se para se divertir muito jogando este jogo único e desafiador!",
     "type": "noticia",
-    "img": "img/minigame.png",
+    "img": "img/minigame.webp",
     "data": "02/03/2023",
     "link": "/pages/article/index.html?news=minigame"
   },
@@ -13,7 +13,7 @@
     "titulo": "Servidor está passando por uma atualização importante",
     "desc": "Estamos atualizando o servidor com as últimas correções e melhorias. Isso pode levar algumas horas e pode causar interrupções temporárias no serviço.",
     "type": "aviso",
-    "img": "img/atualizacao.png",
+    "img": "img/atualizacao.webp",
     "data": "10/03/2023",
     "link": "/pages/article/index.html?news=atualizacao"
   },
@@ -22,7 +22,7 @@
     "titulo": "Novo recurso de personalização de personagem disponível!",
     "desc": "A partir de hoje, você pode personalizar seu personagem com várias opções de roupas e acessórios exclusivos. Experimente agora e deixe seu personagem com a sua cara!",
     "type": "artigo",
-    "img": "img/personalizacao.png",
+    "img": "img/personalizacao.webp",
     "data": "15/03/2023",
     "link": "/pages/article/index.html?news=personalizacao"
   },
@@ -31,7 +31,7 @@
     "titulo": "Problemas com a conexão do servidor resolvidos!",
     "desc": "Estamos felizes em anunciar que resolvemos os problemas de conexão que alguns jogadores estavam enfrentando. Obrigado pela paciência e continue aproveitando o servidor!",
     "type": "aviso",
-    "img": "img/conexao.png",
+    "img": "img/conexao.webp",
     "data": "20/03/2023",
     "link": "/pages/article/index.html?news=conexao"
   },
@@ -40,7 +40,7 @@
     "titulo": "Novo evento especial de Páscoa chegando!",
     "desc": "Prepare-se para uma celebração emocionante de Páscoa no servidor. Haverá novos minigames, promoções na loja e muito mais. Não perca!",
     "type": "artigo",
-    "img": "img/pascoa.png",
+    "img": "img/pascoa.webp",
     "data": "25/03/2023",
     "link": "/pages/article/index.html?news=pascoa"
   },
@@ -49,7 +49,7 @@
     "titulo": "Servidor atinge novo recorde de jogadores online!",
     "desc": "Com mais de 10.000 jogadores online simultaneamente, estamos muito felizes em anunciar que o servidor bateu um novo recorde de jogadores online. Obrigado a todos pela sua contínua participação!",
     "type": "noticia",
-    "img": "img/recorde.png",
+    "img": "img/recorde.webp",
     "data": "01/04/2023",
     "link": "/pages/article/index.html?news=recorde"
   },
@@ -58,7 +58,7 @@
     "titulo": "Mantenha sua conta segura com autenticação de dois fatores",
     "desc": "Para manter sua conta segura, recomendamos que você habilite a autenticação de dois fatores em sua conta. Isso ajudará a evitar que hackers e invasores acessem sua conta.",
     "type": "aviso",
-    "img": "img/seguranca.png",
+    "img": "img/seguranca.webp",
     "data": "05/04/2023",
     "link": "/pages/article/index.html?news=seguranca"
   },
@@ -67,7 +67,7 @@
     "titulo": "Evento de Aniversário do Servidor chegando!",
     "desc": "O servidor está completando 3 anos e estamos preparando um grande evento para celebrar. Fique de olho nas novidades e participe das atividades para ganhar prêmios exclusivos!",
     "type": "noticia",
-    "img": "img/aniversario.png",
+    "img": "img/aniversario.webp",
     "data": "10/04/2023",
     "link": "/pages/article/index.html?news=aniversario"
     },
@@ -76,7 +76,7 @@
     "titulo": "Novo minigame de corrida adicionado!",
     "desc": "Acelere e sinta a adrenalina com o novo minigame de corrida. Convide seus amigos e competidores para ver quem é o melhor piloto no servidor!",
     "type": "noticia",
-    "img": "img/corrida.png",
+    "img": "img/corrida.webp",
     "data": "15/04/2023",
     "link": "/pages/article/index.html?news=corrida"
     },
@@ -85,7 +85,7 @@
     "titulo": "Manutenção programada para esta semana",
     "desc": "Estamos programando uma manutenção para o servidor esta semana para fazer algumas melhorias importantes. O tempo de inatividade esperado é de aproximadamente 1 hora.",
     "type": "aviso",
-    "img": "img/manutencao.png",
+    "img": "img/manutencao.webp",
     "data": "20/04/2023",
     "link": "/pages/article/index.html?news=manutencao"
     }
