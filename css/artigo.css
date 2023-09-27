@@ -167,7 +167,7 @@ footer {
 
 footer ul {
   list-style: none;
-  displat: flex;
+  display: flex;
   justify-content: space-between;
 }
 
